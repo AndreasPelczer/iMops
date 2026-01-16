@@ -1,4 +1,22 @@
-# iMops
+# iMops OS: Das Betriebssystem der Brigade
+
+> "Wenn Krankenhäuser auf MUMPS laufen, warum läuft die Gastro auf lügenden Zetteln?"
+
+iMops ist kein Management-Tool. Es ist eine **High-Availability-Infrastruktur** für die Produktion unter Hochlast. 
+
+### ⚙️ Philosophie
+- **Data-First**: Inspiriert von der Effizienz von MUMPS. Das Wissen (Der Hering, Esscoiffe, Bocause) ist fest im Kern verdrahtet.
+- **Beweis-Semantik**: Dokumentation ist kein lästiges Extra, sondern ein Nebenprodukt der Arbeit.
+- **Mensch-Meier-Modus**: Eine technologische Barrikade gegen Überwachung. Wir schützen die Würde der Brigade im Code.
+
+### 🛡 Die Rio-Reiser-Lizenz
+Jegliche Nutzung zur individuellen Leistungsüberwachung führt zum Entzug der Nutzungslizenz. 
+**Macht kaputt, was euch kaputt macht.**
+
+### 🛠 Tech Stack
+- **Core**: Swift 6.0 Strict Concurrency
+- **Storage**: SwiftData Persistent Kernel
+- **UI**: SwiftUI (High-Contrast for Kitchen Environments)# iMops
 
 Mach kaputt was dich kaputt macht
 
